@@ -1,3 +1,5 @@
+# Instructions: Remove the illegal characters in the variable name
+
 #Solution:
 myfirst_name = "John"
 

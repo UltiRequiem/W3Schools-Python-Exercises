@@ -1,3 +1,5 @@
+# Instructions: Comments in Python are written with a special character, which one?
+
 # Solution:
 # This is a comment
 

@@ -1,3 +1,5 @@
+# Instructions: Insert the correct keyword to make the variable x belong to the global scope.
+
 #Solution:
 def myfunc():  
     global x

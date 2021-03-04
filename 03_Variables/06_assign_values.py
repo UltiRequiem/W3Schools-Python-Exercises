@@ -1,3 +1,5 @@
+# Instructions: Insert the correct syntax to assign the same value to all three variables in one code line.
+
 #Solution:
 x = y = z = "Orange"
 

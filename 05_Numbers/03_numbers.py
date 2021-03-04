@@ -1,3 +1,4 @@
+# Instructions: Insert the correct syntax to convert x into a complex number.
 x = 5
 # Solution: complex()
 x = complex(x)

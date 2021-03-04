@@ -1,3 +1,4 @@
+# Instructions: Insert the correct syntax to convert x into a floating point number.
 x = 5
 # Solution: float()
 x = float(x)
