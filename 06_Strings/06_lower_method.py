@@ -2,5 +2,5 @@
 txt = "Hello World"
 # Solution: lower() method convert  the text to lowercase
 txt = txt.lower()
-
+print(txt)
 # Read More Here: https://www.w3schools.com/python/python_strings.asp
